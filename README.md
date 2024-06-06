@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navraj88
 - 👀 I’m interested in programming,blockchain,hacking
-- 🌱 I’m currently learning java
+- 🌱 I’m currently working on Flutter
 - 💞️ I’m looking to collaborate on coding projects 
 - 📫 contact email: devalinavraj@gmail.com
 
